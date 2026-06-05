@@ -181,7 +181,7 @@ export const Makhtaba = (): JSX.Element => {
             labels mt=1rem (16px)
             cards mt=1.6875rem (27px), 3-col, gap=0.5625rem (9px), aspect-[107/153]
           */}
-          <section className="bg-[linear-gradient(180deg,rgba(255,253,245,1)_0%,rgba(136,89,38,1)_8%,rgba(136,89,38,1)_100%)] px-[1.6875rem] sm:px-[3rem] lg:px-[5rem] pt-[1.125rem] sm:pt-[1.5rem] pb-[2.5rem] sm:pb-[3rem] text-center">
+          <section className="bg-[#885926] px-[1.6875rem] sm:px-[3rem] lg:px-[5rem] pt-[1.125rem] sm:pt-[1.5rem] pb-[2.5rem] sm:pb-[3rem] text-center">
 
             {/* Browse subjects */}
             <h2 style={pf} className="text-[1.25rem] sm:text-[1.375rem] font-normal leading-[0.95] text-[#f3f3f3]">
